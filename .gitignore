@@ -1,0 +1,23 @@
+
+# Secrets
+.env
+.env.*
+!.env.example
+cred.txt
+
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+client/dist/
+server/dist/
+
+# Local development files
+.idea/
+.vite/
+.vs/
+
+# Logs
+*.log
+npm-debug.log*
